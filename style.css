@@ -1,0 +1,19 @@
+table{
+    color:blue;
+}
+
+[href="#idev"]{
+    color:rgb(193, 71, 50);
+}
+
+.privet{
+    color:rgb(193, 71, 50);
+}
+
+#idev{
+    font-weight: bold;
+}
+
+.list > li{
+    color:rgb(193, 71, 50);
+}
